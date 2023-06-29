@@ -1,4 +1,5 @@
 Nueva línea
 Prueba de fichero modificada
+Añadido en rama 4
 Primera versión
 Cambiado
